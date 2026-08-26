@@ -1,0 +1,27 @@
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.jks
+*.p12
+*.key
+*.mobileprovision
+# Java / Spring Boot
+backend/target/
+backend/.mvn/
+backend/HELP.md
+*.class
+# Env
+.env
+.env.local
+*.env
+# Docker
+postgres-data/
+# IDE
+.idea/
+.vscode/
+*.iml
+# OS
+.DS_Store
